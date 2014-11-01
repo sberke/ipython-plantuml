@@ -9,4 +9,9 @@ Example can be [seen on nbviewer](http://nbviewer.ipython.org/github/sberke/ipyt
 
 ## Credit
 
-Example originally from a [stack overflow](http://stackoverflow.com/questions/20303335/ipython-notebook-plantuml-extension) post and published to githumb to improve accessibility for all.
+Example originally from a [stack overflow](http://stackoverflow.com/questions/20303335/ipython-notebook-plantuml-extension) post and published to github to improve accessibility for all.
+
+## TODO
+
+* Add option to render from plantuml.com (example on stackoverflow)
+* option for SVG vs. PNG (example on stackoverflow)
