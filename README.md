@@ -1,7 +1,7 @@
 ipython-plantuml
 ================
 
-An ipython cell magics for [plantuml](http://plantuml.sourceforge.net/) 
+An [ipython](http://ipython.org) cell magics for [plantuml](http://plantuml.sourceforge.net/) 
 
 ## Example
 
